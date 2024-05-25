@@ -1,0 +1,1 @@
+2024-05-18 22:36:35,055 FILE: database.py IN: count_all_limits MESSAGE: Error binding parameter 1: type 'Message' is not supported
